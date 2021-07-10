@@ -1,4 +1,10 @@
 
+// Problem statemant.
+/*
+	given n - non negative integer, find sum of all non-negative integers from 0 to n...  
+
+*/
+
 // fastest one
 function sumMath(n){
     return n*(n + 1)/2;
